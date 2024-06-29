@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 335066528}
   - component: {fileID: 335066527}
   - component: {fileID: 335066530}
+  - component: {fileID: 335066531}
   m_Layer: 0
   m_Name: Ground Wall (3)
   m_TagString: Untagged
@@ -249,6 +250,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0000002, y: 1, z: 1.0000002}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &335066531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 335066525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beaa5b746677045e5986f9b43792df2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &503183876
 GameObject:
   m_ObjectHideFlags: 0
@@ -262,6 +275,7 @@ GameObject:
   - component: {fileID: 503183879}
   - component: {fileID: 503183878}
   - component: {fileID: 503183881}
+  - component: {fileID: 503183882}
   m_Layer: 0
   m_Name: Ground Wall (1)
   m_TagString: Untagged
@@ -376,6 +390,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &503183882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 503183876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beaa5b746677045e5986f9b43792df2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -682,6 +708,7 @@ GameObject:
   - component: {fileID: 981676599}
   - component: {fileID: 981676598}
   - component: {fileID: 981676601}
+  - component: {fileID: 981676602}
   m_Layer: 0
   m_Name: Ground Wall (2)
   m_TagString: Untagged
@@ -796,6 +823,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0000002, y: 1, z: 1.0000002}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &981676602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 981676596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beaa5b746677045e5986f9b43792df2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1214674469
 GameObject:
   m_ObjectHideFlags: 3
@@ -1035,6 +1074,7 @@ GameObject:
   - component: {fileID: 1410892741}
   - component: {fileID: 1410892740}
   - component: {fileID: 1410892743}
+  - component: {fileID: 1410892744}
   m_Layer: 0
   m_Name: Ground Wall
   m_TagString: Untagged
@@ -1149,6 +1189,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1410892744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1410892738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beaa5b746677045e5986f9b43792df2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1716769080
 GameObject:
   m_ObjectHideFlags: 0
